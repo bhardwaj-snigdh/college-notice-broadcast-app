@@ -28,6 +28,10 @@
 - Rules for creating a message and selectiong audience
 - Super User (Admin) support
 
+## App Demo in 50 Seconds
+
+https://user-images.githubusercontent.com/59894983/184187266-da53d247-8ea0-4114-8703-4b7c08230c45.mp4
+
 ## Installation and Setup Instructions
 
 Clone down this repository. To run this repository you will need **node.js**, **npm**, **expo cli** and **postgresql** installed globally on your machine.
